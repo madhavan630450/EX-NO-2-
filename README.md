@@ -171,7 +171,7 @@ void encryptDecryptText(char *text, char matrix[SIZE][SIZE], int encrypt) {
 
 ## Output:
 
-<img width="1752" height="977" alt="image" src="https://github.com/user-attachments/assets/fad83007-2b38-41da-aa1a-7698e93c2a8b" />
+<img width="1726" height="955" alt="image" src="https://github.com/user-attachments/assets/dd6d4a01-31d0-4cb6-86c6-579f42ed9352" />
 
 ## Result
 Thus the implementation of Playfair Substitution technique had been executed successfully.
